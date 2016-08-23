@@ -1,0 +1,18 @@
+.body{
+	margin: 0;
+	padding:0;
+}
+.cuadrado{
+	width: 200px;
+	height: 200px;
+	position: static;
+}
+.rosado{
+	background-color: #ee3e64;
+}
+.celeste{
+	background-color: #44accf;
+}
+.verde{
+	background-color: #b7d84b;
+}

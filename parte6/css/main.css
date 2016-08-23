@@ -1,0 +1,23 @@
+.body{
+	margin: 0;
+	padding:0;
+}
+.cuadrado{
+	width: 200px;
+	height: 200px;
+}
+.rosado{
+	background-color: #ee3e64;
+}
+.celeste{
+	background-color: #44accf;
+	position: absolute;
+	left: 200px;
+}
+.verde{
+	background-color: #b7d84b;
+	position: relative;
+}
+.amarillo{
+	background-color: #FFFF00;
+}
